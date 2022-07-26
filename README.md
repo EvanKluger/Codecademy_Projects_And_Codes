@@ -16,3 +16,9 @@ CS-104: Computer Architecutre
 CS-105: Discrete Math
 
 I am currently finishing up CS-102
+
+
+                 Best Case	      Worst Case	        Average Case	        Space Complexity
+Bubble Sort	      Ω(n)	            O(n^2)	              O(n^2)	                O(1)
+Merge Sort	      Ω(n log n)	      O(n log n)	          O(n log n)	            O(n)
+Quicksort	        Ω(n log n)	      O(n^2)	              O(n log)	              O(log n)

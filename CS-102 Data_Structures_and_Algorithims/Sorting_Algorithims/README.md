@@ -1,4 +1,4 @@
-#This Folder contains Sorting Algorthims
+This Folder contains Sorting Algorthims
 Here is a breakdown of the Runtimes and Space Complexity of the main Sorting Algorthims included here
 
 

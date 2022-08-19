@@ -5,7 +5,7 @@ This Repo does not contain all the codes created for this course, but instead th
 
 The Repo is broken down into 5 Folders: 1 for each Module of the course:
 
-CS-101: Intro to Programming : There are no codes for this Repo as much of the work done here is exemplified in the CS-102 programs.
+CS-101: Intro to Programming : There are no codes for this folder as much of the work done here is exemplified in the CS-102 programs.
 
 CS-102: Data Structures and Algorithims
 

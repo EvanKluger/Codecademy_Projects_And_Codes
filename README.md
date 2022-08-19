@@ -15,6 +15,4 @@ CS-104: Computer Architecutre
 
 CS-105: Discrete Math
 
-I am currently finishing up CS-102
-
-
+I am currently in the middle of CS-103
